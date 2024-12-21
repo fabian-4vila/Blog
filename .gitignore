@@ -1,0 +1,11 @@
+# Node.js
+node_modules/
+dist/
+.env
+
+# Angular
+blog-frontend/node_modules/
+blog-frontend/dist/
+
+# Docker
+*.log
